@@ -1,5 +1,5 @@
-import CardPizza from "./CardPizza";
-import Header from "./Header";
+import CardPizza from "../components/CardPizza";
+import Header from "../components/Header";
 import "./Home.css";
 // import { pizzas } from "../assets/pizzas";
 import { useEffect, useState } from "react";
